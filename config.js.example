@@ -1,0 +1,7 @@
+exports.configuration = {
+  username : 'login',
+  password : 'password',
+  filterParams : {
+    track: "tweeter"
+  },
+}
